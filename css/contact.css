@@ -1,0 +1,73 @@
+/*contact*/
+.contact-header {
+    margin-top: 50px;
+    text-align: left;
+    font-size: 26px;
+    font-family: "微软雅黑", "verdana";
+    font-weight: normal;
+    color: #000;
+    background: none;
+    border-bottom: 0px;
+    padding-left: 0px;
+    padding: 40px 0px 10px 50px;
+}
+
+.contact-container {
+    background-color: #fff;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.contact-items {
+    display: table;
+    padding: 30px;
+    /*padding: 30px;*/
+    width: calc( 100% - 60px);
+}
+
+.contact-items>div {
+    display: table-cell;
+    padding: 0 10px;
+}
+
+.contact-title {
+    margin: 0;
+    padding: 20px 10px 30px;
+    height: 80px;
+    font-weight: normal;
+    font-size: 12px;
+    color: #333;
+    font-family: "微软雅黑", "verdana";
+    font-size: 14px;
+}
+
+.contact-title span {
+    margin: 0;
+    padding: 0px 10px 40px;
+    height: 80px;
+    font-weight: normal;
+    font-size: 12px;
+    color: #333;
+    font-family: "微软雅黑", "verdana";
+    font-size: 14px;
+    line-height: 200%;
+}
+
+.contact-content td {
+    width: auto;
+    font-size: 14px;
+    font-family: "微软雅黑", "verdana";
+    vertical-align: top;
+    line-height: 200%;
+}
+
+.contact-content th {
+    vertical-align: top;
+    padding: 5px;
+    width: 60px;
+    text-align: right;
+    font-family: "微软雅黑", "verdana";
+    font-weight: normal;
+    color: #333;
+    font-size: 14px;
+}
