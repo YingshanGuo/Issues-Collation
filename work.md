@@ -6,8 +6,7 @@
 
 ----------- 
 ### 2017年第17周
-#### Statistic
-##### From 2017-04-20 to 2017-04-21
+### Statistic （From 2017-04-20 to 2017-04-21）
 - Front-End web development 166 days
 - Work 19 weeks,code 112 days
 - 112 assignments
@@ -27,8 +26,7 @@
 ------------
 
 ### 2017年第18周
-#### Statistic
-##### From 2017-04-24 to 2017-04-28
+### Statistic （From 2017-04-24 to 2017-04-28）
 - Front-End web development 166 days
 - Work 19 weeks,code 112 days
 - 112 assignments
